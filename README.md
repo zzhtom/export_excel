@@ -13,7 +13,7 @@ $ npm start
 "exceljs": "^0.7.1",
 "sqlite3": "^3.1.13"
 ```
-## 功能代码
+### 功能代码
 ```javascript
 db.all(sql_product, function (err, rows) {
         if (!!error) throw error;
